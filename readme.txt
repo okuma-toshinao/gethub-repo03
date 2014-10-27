@@ -11,6 +11,8 @@ step08/local
 step06/github
 step08/github
 step09/github
+step21/github
+step22/github
 call sub01
 call sub02
 call sub03
