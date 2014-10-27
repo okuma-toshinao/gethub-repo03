@@ -13,6 +13,8 @@ step08/github
 step09/github
 call sub01
 call sub02
+call sub03
+call sub04
 
 step10/github
 step11/github
@@ -21,3 +23,5 @@ step11/github
 
 sub01
 sub02
+sub03
+sub04
